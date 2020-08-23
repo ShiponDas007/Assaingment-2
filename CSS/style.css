@@ -1,0 +1,74 @@
+.menu-bar{
+	text-align: center;
+	height: 70px;
+	background:#C4225F;
+	line-height: 70px
+ 
+}
+
+.menu-bar ul li{
+	display: inline-block;
+}
+
+.menu-bar ul li{
+font-size: 15px;
+color: red;
+font-weight: 0px 10px;
+
+}
+.menu-bar ul li a{
+	font-size: 18px;
+	color:white;
+font-weight: 600;
+margin: 0px 10px;
+transition: 2s
+
+}
+
+.menu-bar ul li a:hover{
+	color :blue;
+	font size: 20px;
+	transition:2s ;
+}
+
+/*///This is our banner section///
+*/
+.forest{
+	width: 2000px;
+background-image: url(../img/forest.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+height:100vh;
+
+}
+
+.Social-media{
+	text-align: center;
+
+}
+
+.social-media ul li{
+	list-style:none;
+	display: inline-block:80px;
+
+}
+.social-media ul li a i{
+	font-size: 50px
+height:60px;
+width: 60px;
+
+
+
+}
+
+.form-sectiom h1{
+ color: red
+
+
+}
+
+
+
+
+
